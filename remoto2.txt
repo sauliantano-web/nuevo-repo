@@ -1,1 +1,2 @@
 Esta es la versión 3 del remoto 2 
+Esta es una versión con el bash de VSC
